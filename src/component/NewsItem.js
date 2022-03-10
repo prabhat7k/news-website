@@ -14,18 +14,23 @@ export default class NewsItem extends Component {
                 ? "https://techcrunch.com/wp-content/uploads/2022/03/spotify-discord-glitch-down.jpg?w=711"
                 : imageUrl
             }
-            alt="Card image cap"
+            alt="Card cap"
           />
           <div className="card-body">
             <div className="text-primary">{source}</div>
             <h5 className="card-title">{title}</h5>
             <p className="card-text">{description}</p>
             <p className="card-text">
-              <small class="text-danger">
+              <small className="text-danger">
                 By {author} at {new Date(date).toUTCString()}
               </small>
             </p>
-            <a href={newsUrl} target="_blank" className="btn btn-primary">
+            <a
+              href={newsUrl}
+              target="_blank"
+              rel="noreferrer"
+              className="btn btn-primary"
+            >
               Read More...
             </a>
           </div>
