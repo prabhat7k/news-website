@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Tage Kene-Okafor",
+      "title": "OkHi gets $1.5M seed extension to scale its smart address verification service across Africa",
+      "description": "It can be challenging to prove or navigate addresses in Africa due to poor addressing infrastructure. And for some countries like Nigeria, customers need to accurately provide their addresses to financial institutions such as banks and fintechs to set up bank…",
+      "url": "https://techcrunch.com/2022/03/09/okhi-gets-1-5m-seed-extension-to-scale-its-smart-address-verification-service-across-africa/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/Timbo-landscape-blue-high-res.jpg?w=711",
+      "publishedAt": "2022-03-09T08:22:12Z",
+      "content": "It can be challenging to prove or navigate addresses in Africa due to poor addressing infrastructure. And for some countries like Nigeria, customers need to accurately provide their addresses to fina… [+5890 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Mike Butcher",
+      "title": "Workbounce's ‘Google meets Slack’ product for sales teams raises $2.7M from Index Ventures",
+      "description": "Selling commercial products has become pretty complex, and the pandemic has not helped. Sales teams are often hampered by the difficulties of building trust in their product, especially in a hybrid world where much of the interactions are virtual. Legacy sale…",
+      "url": "https://techcrunch.com/2022/03/09/workbounces-google-meets-slack-product-for-sales-teams-raises-2-7m-from-index-ventures/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/WorkbounceFounders.jpg?w=600",
+      "publishedAt": "2022-03-09T08:01:58Z",
+      "content": "Selling commercial products has become pretty complex, and the pandemic has not helped. Sales teams are often hampered by the difficulties of building trust in their product, especially in a hybrid w… [+1885 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Romain Dillet",
+      "title": "Atlantic Money wants to challenge Wise with even cheaper international money transfers",
+      "description": "Meet Atlantic Money, a foreign exchange startup that plans to be cheaper than other foreign exchange services. If that pitch sounds familiar, that’s because Wise, the company formerly known as TransferWise, originally appeared on the startup scene with the sa…",
+      "url": "https://techcrunch.com/2022/03/09/atlantic-money-wants-to-challenge-wise-with-even-cheaper-international-money-transfers/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/philip-veater-mRlmfQ_yVFQ-unsplash.jpg?w=602",
+      "publishedAt": "2022-03-09T08:00:19Z",
+      "content": "Meet Atlantic Money, a foreign exchange startup that plans to be cheaper than other foreign exchange services. If that pitch sounds familiar, thats because Wise, the company formerly known as Transfe… [+3176 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Connie Loizos",
+      "title": "For China bulls like Jim Breyer, Russia ties present \"geopolitical challenges and questions\"",
+      "description": "China has emerged as one of the most powerful countries in the world. Now, its close ties with Russia, against which the rest of the world has swiftly united since its invasion last week of Ukraine, has put the world’s most populous country in a precarious po…",
+      "url": "https://techcrunch.com/2022/03/08/for-china-bulls-like-jim-breyer-russia-ties-present-geopolitical-challenges-and-questions/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/bitcoin-pile-china.jpg?w=711",
+      "publishedAt": "2022-03-09T07:51:01Z",
+      "content": "China has emerged as one of the most powerful countries in the world. Now, its close ties with Russia, against which the rest of the world has swiftly united since its invasion last week of Ukraine, … [+6410 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Romain Dillet",
+      "title": "E-bike subscription service Dance adds new cities and mopeds",
+      "description": "After raising nearly $20 million a few months ago, Berlin-based startup Dance is expanding its electric bike subscription service to a handful of new cities. In addition to Berlin, people living in Hamburg, Munich, Vienna and Paris will be able to rent an e-b…",
+      "url": "https://techcrunch.com/2022/03/08/e-bike-subscription-service-dance-adds-new-cities-and-mopeds/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/Dance-P05_MTO-DANCE_1161.jpg?w=509",
+      "publishedAt": "2022-03-09T07:00:41Z",
+      "content": "After raising nearly $20 million a few months ago, Berlin-based startup Dance is expanding its electric bike subscription service to a handful of new cities. In addition to Berlin, people living in H… [+3103 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Manish Singh",
+      "title": "Indian food delivery giant Swiggy eyes $1 billion IPO",
+      "description": "Indian food delivery giant Swiggy has hired bankers as it gears up for an initial public offering next year, a source familiar with the matter said. The startup, which was valued at $10.7 billion in its Series K financing in January this year, is looking to r…",
+      "url": "https://techcrunch.com/2022/03/08/swiggy-ipo/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1228438716.jpg?w=599",
+      "publishedAt": "2022-03-09T01:16:16Z",
+      "content": "Indian food delivery giant Swiggy has hired bankers as it gears up for an initial public offering next year, a source familiar with the matter said.\r\nThe startup, which was valued at $10.7 billion in… [+2945 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Walter Thompson, Ram Iyer",
+      "title": "TechCrunch+ roundup: Box unfolds a surprise, robotics pitch tips, BNPL growing pains",
+      "description": "Growth is good, but like the James Brown song, Klarna is paying the cost to be the boss.",
+      "url": "https://techcrunch.com/2022/03/08/techcrunch-roundup-box-unfolds-a-surprise-robotics-pitch-tips-bnpl-growing-pains/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1267023368.jpg?w=600",
+      "publishedAt": "2022-03-08T23:09:32Z",
+      "content": "Swedish fintech giant Klarna was doing well before the pandemic, but today, its a mega-unicorn: In June 2021, it reached a $45.6 billion valuation after raising $639 million.\r\nMuch of this growth was… [+4865 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Alex Wilhelm",
+      "title": "Even an expensive new Mac couldn't save Apple's stock today",
+      "description": "It is TechCrunch tradition to look at Apple’s stock price during, and after its major events. Why? Because we enjoy it, and we’re always curious what impact the company’s news has on its actual financial worth. The answer is usually very, very little. This ma…",
+      "url": "https://techcrunch.com/2022/03/08/even-an-expensive-new-mac-couldnt-save-apples-stock-today/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/apple-march-2022-studio-display-pixels.jpg?w=712",
+      "publishedAt": "2022-03-08T23:08:52Z",
+      "content": "It is TechCrunch tradition to look at Apple’s stock price during, and after its major events. Why? Because we enjoy it, and we’re always curious what impact the company’s news has on its actual finan… [+2983 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Alex Wilhelm",
+      "title": "Daily Crunch: Discord and Spotify resuming service after widespread outage",
+      "description": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+      "url": "https://techcrunch.com/2022/03/08/daily-crunch-discord-and-spotify-resuming-service-after-widespread-outage/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/spotify-discord-glitch-down.jpg?w=711",
+      "publishedAt": "2022-03-08T23:08:24Z",
+      "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PST, subscribe here.\r\nHello and welcome to Daily Crunch for Tuesday, March 8, 2022! Toda… [+6088 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Aisha Malik",
+      "title": "Twitter rolls out a new tool for creators to manage their earnings on the platform",
+      "description": "Twitter is introducing a new tool for creators called the “Creator Dashboard,” the company announced on Tuesday. The social media giant says the new tool is designed to help creators analyze how they make money on Twitter and how much they’re earning from mon…",
+      "url": "https://techcrunch.com/2022/03/08/twitter-rolls-out-a-new-tool-for-creators-to-manage-their-earnings-on-the-platform/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/Twitter_Creator-Dashboard_Static.png?w=713",
+      "publishedAt": "2022-03-08T21:44:27Z",
+      "content": "Twitter is introducing a new tool for creators called the “Creator Dashboard,” the company announced on Tuesday. The social media giant says the new tool is designed to help creators analyze how they… [+2846 chars]"
+    }
+  ]
+}
