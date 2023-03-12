@@ -1,76 +1,136 @@
 import React, { Component } from "react";
+import "./about.css";
 
 export default class About extends Component {
-  render() {
-    return (
-      <div style={{ marginTop: "80px" }}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt iure
-        harum praesentium enim fugiat est cum amet blanditiis dignissimos minima
-        maiores esse eum aut quidem natus vitae nesciunt necessitatibus
-        assumenda eius soluta iusto, alias optio perferendis? Obcaecati amet
-        accusamus ex earum, iste magni quasi, aliquid a labore temporibus
-        exercitationem voluptate provident consequatur sequi iusto aspernatur
-        animi, voluptas explicabo expedita corporis? Tenetur delectus blanditiis
-        recusandae, molestiae ratione iusto atque qui alias beatae, tempora
-        repellat temporibus, corrupti dicta cupiditate saepe mollitia voluptatum
-        commodi soluta voluptatem dignissimos. Quaerat enim quae totam quo nam
-        molestias nesciunt similique dignissimos explicabo. Commodi aut error
-        voluptatem soluta harum corrupti, sit omnis distinctio, placeat ducimus
-        voluptates maiores. Exercitationem alias soluta sequi, eos dolore
-        temporibus, quidem numquam ut tempore debitis consectetur odit, aut
-        officia ipsa corporis! Temporibus mollitia veniam, blanditiis facilis
-        in, modi sequi doloremque consectetur quos iure, deleniti odit illo
-        atque illum? At necessitatibus consequatur maxime corrupti repudiandae
-        ducimus tenetur ad beatae itaque, numquam nihil sint alias mollitia!
-        Asperiores porro unde, optio vero ad velit quasi totam molestiae maiores
-        officiis eius impedit obcaecati aspernatur repudiandae eum eveniet quae
-        molestias ducimus praesentium. Animi eos atque praesentium accusamus
-        mollitia dolore maxime magnam aliquam tempora necessitatibus molestias
-        laudantium nesciunt vitae distinctio eum, et eius sint sequi consequatur
-        quis natus veniam. Delectus, dolor sit eligendi omnis facilis porro
-        nesciunt quaerat dolore veniam ut hic iure explicabo incidunt earum
-        excepturi obcaecati est ea consequatur quas. Sunt exercitationem,
-        placeat quis et, vel similique suscipit minus id non facilis nulla
-        aspernatur ea? Possimus iure, sapiente, architecto nesciunt quod,
-        aliquid sunt consequatur cumque atque consectetur dignissimos voluptas
-        sed. Facere vel, soluta impedit sunt ex molestias molestiae amet
-        corporis harum magnam accusantium ducimus laboriosam odio est ea? Iure
-        ipsam incidunt quisquam nesciunt molestias voluptatibus reiciendis quo,
-        eum quos assumenda corporis ad aliquam sapiente totam laudantium id.
-        Iste illum tempore numquam, perspiciatis ratione vel possimus nulla
-        animi odit velit minima omnis optio, deleniti tempora id culpa odio
-        quibusdam nam atque dolorem eos temporibus sunt sapiente facilis.
-        Aliquam, corporis libero laboriosam est voluptate omnis distinctio
-        repellat nihil, necessitatibus porro ipsa deserunt. Suscipit
-        exercitationem asperiores atque perspiciatis ratione blanditiis incidunt
-        quaerat eos placeat quidem autem praesentium deleniti illo iure
-        obcaecati, nobis fugit quae magni dolorum odit odio numquam, ipsa
-        assumenda? Nulla dolores nisi voluptatibus iste distinctio tempore enim
-        blanditiis aliquam at. Unde error cupiditate delectus possimus numquam
-        ullam sit accusantium provident recusandae consectetur nostrum aut alias
-        officia earum, exercitationem atque, repudiandae itaque porro incidunt
-        natus aliquid architecto rem? Cupiditate nemo eos voluptate enim veniam
-        soluta accusantium, magnam quae obcaecati corrupti quaerat sapiente
-        reprehenderit excepturi nobis optio nam omnis odit provident numquam in
-        at, quia architecto reiciendis ullam. Sunt quam ipsum maxime sint
-        quidem. Ipsum doloremque similique iusto veniam dolores ex atque nostrum
-        aliquid, ullam maxime blanditiis eveniet quo id natus eius totam
-        aspernatur et quod, temporibus dolor maiores omnis adipisci dolore.
-        Libero itaque sint beatae corrupti eius consectetur quidem placeat,
-        molestiae officiis iste, possimus explicabo culpa dignissimos odio,
-        minus pariatur praesentium! Magnam iste, id deleniti consectetur a modi
-        ad perspiciatis quia beatae quo eum quidem labore enim sapiente at eos
-        ducimus molestias adipisci recusandae suscipit! Porro, eos enim ipsum
-        cupiditate minus nostrum aliquam itaque veritatis, aspernatur temporibus
-        atque quos possimus! Sit saepe unde corrupti dolores dignissimos,
-        commodi quia doloremque repellat ad nobis minus! Nisi optio ab quaerat
-        accusamus vero illum et fugit tempore, nemo, illo asperiores qui
-        consequuntur. Cupiditate libero blanditiis beatae voluptas, magnam rem.
-        Labore ab vitae est earum porro ipsam sit iure quis? Natus ea velit
-        deleniti aspernatur, accusamus cum expedita laborum, numquam,
-        praesentium quos voluptas non dolor ducimus repellendus. Magnam,
-        similique molestiae culpa animi odio accusantium totam.
-      </div>
-    );
-  }
+	render() {
+		return (
+			<div className="aboutus-section">
+				<div className="container">
+					<h2 className="aboutus-title">About Us</h2>
+					<div className="row">
+						<div className="col-md-4 col-sm-6 col-xs-12">
+							<div className="aboutus">
+								<p className="aboutus-text">
+									WorldNews is a news website developed by
+									Prabhat Kumar, dedicated to providing users
+									with the latest news and updates from all
+									over the world. Our team of experienced
+									journalists and correspondents work
+									diligently to gather news from various
+									sources, ensuring that our readers receive
+									reliable and legitimate information.
+								</p>
+								<p className="aboutus-text">
+									We are committed to providing our users with
+									a diverse range of news stories, covering a
+									wide variety of topics including politics,
+									sports, technology, entertainment, health,
+									science, and more. Our goal is to keep our
+									readers informed and engaged with the world
+									around them.
+								</p>
+							</div>
+						</div>
+
+						<div className="col-md-8 col-sm-6 col-xs-12">
+							<div className="feature">
+								<div className="feature-box">
+									<div className="clearfix">
+										<div className="iconset">
+											<span className="glyphicon glyphicon-cog icon"></span>
+										</div>
+										<div className="feature-content">
+											<h4>Our Mission</h4>
+											<p>
+												At WorldNews, our mission is to
+												provide our readers with
+												reliable, legitimate, and
+												diverse news from around the
+												world. We believe that access to
+												information is essential for a
+												well-informed and engaged global
+												community, and we strive to
+												bring our readers the latest
+												news and updates on a wide range
+												of topics.
+											</p>
+										</div>
+									</div>
+								</div>
+								<div className="feature-box">
+									<div className="clearfix">
+										<div className="iconset">
+											<span className="glyphicon glyphicon-cog icon"></span>
+										</div>
+										<div className="feature-content">
+											<h4>Our Coverage</h4>
+											<p>
+												We cover a wide range of topics,
+												including politics, sports,
+												technology, entertainment,
+												health, science, and more. Our
+												team works diligently to provide
+												our readers with a comprehensive
+												and diverse perspective on news
+												stories from all corners of the
+												globe. We believe that this
+												approach is essential for
+												providing our readers with a
+												well-rounded understanding of
+												the world around them
+											</p>
+										</div>
+									</div>
+								</div>
+								<div className="feature-box">
+									<div className="clearfix">
+										<div className="iconset">
+											<span className="glyphicon glyphicon-cog icon"></span>
+										</div>
+										<div className="feature-content">
+											<h4>Our Sources</h4>
+											<p>
+												At WorldNews, we gather news
+												from a variety of sources to
+												provide our readers with a
+												diverse and comprehensive
+												perspective on current events.
+												We aggregate news from major
+												news organizations, government
+												agencies, non-governmental
+												organizations, and more. Our
+												team of experienced journalists
+												and correspondents work
+												diligently to curate and verify
+												the news we publish on our
+												website. We aim to provide our
+												readers with an amazing
+												experience, which is why we
+												carefully select and present
+												news stories in an easy-to-read
+												format. Our goal is to keep our
+												readers informed and engaged
+												with the world around them, and
+												we believe that providing a
+												user-friendly platform with
+												reliable and diverse sources is
+												essential to achieving this.
+											</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<nav className="navbar fixed-bottom navbar-expand-lg bg-dark text-light center">
+					<h2 className="badge bg-warning lv">WorldNews.com</h2>
+					<pre className="container text-light  lv">
+						Made With ❤ <div className="copy">prab7k@gmail.com</div>{" "}
+					</pre>
+					<div className="copy badge">&copy; 2020 - 2025</div>
+				</nav>
+			</div>
+		);
+	}
 }
